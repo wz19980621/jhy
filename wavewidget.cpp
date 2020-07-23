@@ -1,3 +1,4 @@
+//wz
 #include "wavewidget.h"
 #include <QPainter>
 #include <QTimer>
